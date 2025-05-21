@@ -1,6 +1,6 @@
-# Project Name
+# REGISTRATION FORM
 
-> One paragraph statement about the project.
+> This project adds the freecodecamp registration form
 
 ![screenshot](./app_screenshot.png)
 
@@ -8,20 +8,22 @@ Additional description about the project and its features.
 
 ## Built With
 
-- Major languages,
-- frameworks,
-- technologies used
+- HTML5 elements - `h1`, - `fieldset`, - `select`, - `textarea, form, ìnput`.
+- CSS elements - `.inline`,
+  - `select, fieldset`.
+- Linters - [Prettier](https://prettier.io/), - [Stylelint](https://stylelint.io/).
+- Github Action
 
 ## Live Demo
 
-[Live Demo Link](https://livedemo.com)
+[Live Demo Link](https://kogbagidi-registration-form.netlify.app/)
 
 ### Development (Running locally)
 
 - Clone the project
 
 ```bash
-git clone https://github.com/moshoodabdullahi/html-css-template.git
+git clone https://github.com/afolabitaofeek/registration-form.git
 ```
 
 - Install Dependencies
@@ -69,8 +71,8 @@ yarn hint
 
 ## 👤 Author
 
-- Github: [@moshoodabdullahi](https://github.com/moshoodabdullahi)
-- Linkedin: [@moshoodabdullahi](https://www.linkedin.com/in/moshoodabdullahi/)
+- Github: [@afolabitaofeek](https://github.com/afolabitaofeek)
+- Linkedin: [@afolabitaofeek](https://www.linkedin.com/in/afolabitaofeek/)
 
 ## 🤝 Contributing
 
@@ -84,9 +86,7 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- Hat tip to anyone whose code was used
-- Inspiration, resources/assets used
-- etc
+- [FreeCodeCamp](https://www.freecodecamp.org/)
 
 ## 📝 License
 
